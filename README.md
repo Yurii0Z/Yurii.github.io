@@ -1,2 +1,2 @@
 # Yurii.github.io
-homewokr
+homework
